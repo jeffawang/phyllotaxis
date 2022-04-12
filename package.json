@@ -1,6 +1,17 @@
 {
+  "name": "phyllotaxis",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "serve": "vite preview"
+  },
   "dependencies": {
     "@luma.gl/engine": "^8.5.10",
     "@luma.gl/webgl": "^8.5.10"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3",
+    "vite": "^2.9.1"
   }
 }
