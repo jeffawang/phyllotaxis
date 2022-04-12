@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@luma.gl/engine": "^8.5.10",
+    "@luma.gl/webgl": "^8.5.10"
+  }
+}
